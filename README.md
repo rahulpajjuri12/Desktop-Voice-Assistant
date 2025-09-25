@@ -33,8 +33,13 @@ Think of it as your personal **Jarvis**, right inside your computer.
 
 ## 📂 Project Structure
 Desktop-Voice-Assistant/
+
 │── jarvis.py # Main assistant script
+
 │── data.txt # Notes or assistant data file
+
 │── requirements.txt # Python dependencies
+
 │── .gitignore # Ignored files (e.g., virtual env)
+
 └── README.md # Project documentation
